@@ -18,4 +18,12 @@ At this point, I could start finding patterns in the dataset through SQL queries
 My analysis focused on answering the following questions:
 
 - Looking at total_deaths per total_cases ratio -->  likelihood of dying if you contract Covid in your country.
-- 
+- Looking at total_cases vs population --> percentage of populationwho got infected.
+- Looking at countries with the highest infection rate.
+- Looking at countries with the highest death count.
+- Looking at countries with the highest death rate.
+- Looking at continents with the highest death count.
+- Looking at global figures.
+- Looking at number of vaccinations per location and date.
+- Looking at incremental number of vaccinations per day vs population.
+- Creating views to store data for later visualizations.
